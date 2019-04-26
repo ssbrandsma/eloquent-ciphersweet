@@ -1,5 +1,5 @@
 {
-  "name": "paragonie/eloquent-ciphersweet",
+  "name": "ssbrandsma/eloquent-ciphersweet",
   "description": "Provides searchable encrypted columns for Eloquent ORM",
   "license": "ISC",
   "authors": [
@@ -35,7 +35,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "ParagonIE\\EloquentCipherSweet\\ServiceProvider"
+        "ParagonIE\\EloquentCipherSweet\\CipherSweetServiceProvider"
       ]
     }
   }
